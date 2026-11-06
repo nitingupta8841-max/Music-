@@ -1,0 +1,40 @@
+/**{
+margin:0;
+padding:0;
+
+  background-color :#ff00b2;
+}
+body{
+    backgroud-image:url('bg.jpeg');
+    background-size: cover;
+    overflow:hidden;
+    height:100vh;
+    
+}
+.taskbar{
+    position : absolute;
+    bottom:0;
+    display:flex;
+    justify-content:center;
+    width:100;
+    background-color:#f3f3f3;
+    
+    
+}
+.right{
+    justify-self:flex-end;
+    position: absolute;
+    right:0;
+    margin:6px 0;
+    height: 85%;
+      
+}
+
+body{
+    background-color:#;
+}
+*/
+#box{
+background-color:red;
+animation: 0.5s linear 1s infinite alternate slide-in;
+}
